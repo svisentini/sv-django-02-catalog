@@ -1,5 +1,5 @@
 # sv-django-02-catalog
-Todo list with Django
+Catalogo list with Django
 
 
 DJANGO
