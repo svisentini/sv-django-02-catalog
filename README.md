@@ -1,4 +1,4 @@
-# sv-django-01-todo-list
+# sv-django-02-catalog
 Todo list with Django
 
 
