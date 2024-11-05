@@ -50,7 +50,8 @@ THIRDY_PARTY_APPS = [
 
 MY_APPS = [
     "todos.apps.TodosConfig",
-    "produtos.apps.ProdutosConfig"
+    "produtos.apps.ProdutosConfig",
+    "calculadora.apps.CalculadoraConfig"
 ]
 
 
