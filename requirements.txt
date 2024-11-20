@@ -16,7 +16,6 @@ docker-compose==1.29.2
 dockerpty==0.4.1
 docopt==0.6.2
 filelock==3.6.0
-grpcio==1.30.2
 httplib2==0.20.2
 idna==3.3
 ifaddr==0.1.7
