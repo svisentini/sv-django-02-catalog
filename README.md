@@ -52,6 +52,14 @@ Verificar se os arquivos .env e db.sqlite3 existem
 - python manage.py runserver			>> Rodar a aplicação
 
 --------------------------------------------------------
+Usando o "requirements.txt"
+--------------------------------------------------------
+- Git clone
+- python3 -m venv .venv 				>> Criar Ambiente Virtual
+- source .venv/bin/activate 			>> Entrar no Ambiente Virtual
+- pip install -r requirements.txt
+
+--------------------------------------------------------
 
 
 1) Criar ambiente virtual e ativar
